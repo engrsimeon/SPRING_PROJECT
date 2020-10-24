@@ -23,7 +23,6 @@ public class Author {
 
     public Author() {
     }
-
     public Author(String firstName, String lastname) {
         this.firstName = firstName;
         this.lastname = lastname;
