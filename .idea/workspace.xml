@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4402045d-4b08-476c-b8ba-dd4c51062062" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webapp/model/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webapp/model/Author.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +280,7 @@
       <workItem from="1602041410302" duration="4147000" />
       <workItem from="1602058619607" duration="7448000" />
       <workItem from="1602992263068" duration="613000" />
-      <workItem from="1603575445549" duration="6386000" />
+      <workItem from="1603575445549" duration="6658000" />
     </task>
     <task id="LOCAL-00001" summary="Adding JPA Excample">
       <created>1603580998016</created>
@@ -297,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603581245944</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding JPA Example">
+      <created>1603582072559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603582072559</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,10 +331,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="313" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1602021830965" />
-    <state x="206" y="0" key="CommitChangelistDialog2" timestamp="1603581386675">
+    <state x="206" y="0" width="1099" height="728" key="CommitChangelistDialog2" timestamp="1603582071338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="206" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603581386675" />
+    <state x="206" y="0" width="1099" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603582071338" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1603580189004">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
